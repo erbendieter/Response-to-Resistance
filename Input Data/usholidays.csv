@@ -1,0 +1,486 @@
+,Date,Holiday
+0,12-31-2010,New Year's Day
+1,01-17-2011,"Birthday of Martin Luther King, Jr."
+2,02-21-2011,Washington's Birthday
+3,05-30-2011,Memorial Day
+4,07-04-2011,Independence Day
+5,09-05-2011,Labor Day
+6,10-10-2011,Columbus Day
+7,11-11-2011,Veterans Day
+8,11-24-2011,Thanksgiving Day
+9,12-26-2011,Christmas Day
+10,01-02-2012,New Year's Day
+11,01-16-2012,"Birthday of Martin Luther King, Jr."
+12,02-20-2012,Washington's Birthday
+13,05-28-2012,Memorial Day
+14,07-04-2012,Independence Day
+15,09-03-2012,Labor Day
+16,10-08-2012,Columbus Day
+17,11-12-2012,Veterans Day
+18,11-22-2012,Thanksgiving Day
+19,12-25-2012,Christmas Day
+20,01-01-2013,New Year's Day
+21,01-21-2013,"Birthday of Martin Luther King, Jr."
+22,02-18-2013,Washington's Birthday
+23,05-27-2013,Memorial Day
+24,07-04-2013,Independence Day
+25,09-02-2013,Labor Day
+26,10-14-2013,Columbus Day
+27,11-11-2013,Veterans Day
+28,11-28-2013,Thanksgiving Day
+29,12-25-2013,Christmas Day
+30,01-01-2014,New Year's Day
+31,01-20-2014,"Birthday of Martin Luther King, Jr."
+32,02-17-2014,Washington's Birthday
+33,05-26-2014,Memorial Day
+34,07-04-2014,Independence Day
+35,09-01-2014,Labor Day
+36,10-13-2014,Columbus Day
+37,11-11-2014,Veterans Day
+38,11-27-2014,Thanksgiving Day
+39,12-25-2014,Christmas Day
+40,01-01-2015,New Year's Day
+41,01-19-2015,"Birthday of Martin Luther King, Jr."
+42,02-16-2015,Washington's Birthday
+43,05-25-2015,Memorial Day
+44,07-03-2015,Independence Day
+45,09-07-2015,Labor Day
+46,10-12-2015,Columbus Day
+47,11-11-2015,Veterans Day
+48,11-26-2015,Thanksgiving Day
+49,12-25-2015,Christmas Day
+50,01-01-2016,New Year's Day
+51,01-18-2016,"Birthday of Martin Luther King, Jr."
+52,02-15-2016,Washington's Birthday
+53,05-30-2016,Memorial Day
+54,07-04-2016,Independence Day
+55,09-05-2016,Labor Day
+56,10-10-2016,Columbus Day
+57,11-11-2016,Veterans Day
+58,11-24-2016,Thanksgiving Day
+59,12-26-2016,Christmas Day
+60,01-02-2017,New Year's Day
+61,01-16-2017,"Birthday of Martin Luther King, Jr."
+62,02-20-2017,Washington's Birthday
+63,05-29-2017,Memorial Day
+64,07-04-2017,Independence Day
+65,09-04-2017,Labor Day
+66,10-09-2017,Columbus Day
+67,11-10-2017,Veterans Day
+68,11-23-2017,Thanksgiving Day
+69,12-25-2017,Christmas Day
+70,01-01-2018,New Year's Day
+71,01-15-2018,"Birthday of Martin Luther King, Jr."
+72,02-19-2018,Washington's Birthday
+73,05-28-2018,Memorial Day
+74,07-04-2018,Independence Day
+75,09-03-2018,Labor Day
+76,10-08-2018,Columbus Day
+77,11-12-2018,Veterans Day
+78,11-22-2018,Thanksgiving Day
+79,12-25-2018,Christmas Day
+80,01-01-2019,New Year's Day
+81,01-21-2019,"Birthday of Martin Luther King, Jr."
+82,02-18-2019,Washington's Birthday
+83,05-27-2019,Memorial Day
+84,07-04-2019,Independence Day
+85,09-02-2019,Labor Day
+86,10-14-2019,Columbus Day
+87,11-11-2019,Veterans Day
+88,11-28-2019,Thanksgiving Day
+89,12-25-2019,Christmas Day
+90,01-01-2020,New Year's Day
+91,01-20-2020,"Birthday of Martin Luther King, Jr."
+92,02-17-2020,Washington's Birthday
+93,05-25-2020,Memorial Day
+94,07-03-2020,Independence Day
+95,09-07-2020,Labor Day
+96,10-12-2020,Columbus Day
+97,11-11-2020,Veterans Day
+98,11-26-2020,Thanksgiving Day
+99,12-25-2020,Christmas Day
+100,01-01-2010,New Year’s Day
+101,01-18-2010,"Martin Luther King, Jr. Day"
+102,02-15-2010,Washington’s Birthday
+103,05-31-2010,Memorial Day
+104,07-05-2010,Independence Day
+105,09-06-2010,Labor Day
+106,10-11-2010,Columbus Day
+107,11-11-2010,Veterans Day
+108,11-25-2010,Thanksgiving Day
+109,12-25-2010,Christmas Day
+110,01-01-2009,New Year’s Day
+111,01-19-2009,"Martin Luther King, Jr. Day"
+112,02-16-2009,Washington’s Birthday
+113,05-25-2009,Memorial Day
+114,07-03-2009,Independence Day
+115,09-07-2009,Labor Day
+116,10-12-2009,Columbus Day
+117,11-11-2009,Veterans Day
+118,11-26-2009,Thanksgiving Day
+119,12-25-2009,Christmas Day
+120,01-01-2008,New Year’s Day
+121,01-21-2008,"Martin Luther King, Jr. Day"
+122,02-18-2008,Washington’s Birthday
+123,05-26-2008,Memorial Day
+124,07-04-2008,Independence Day
+125,09-01-2008,Labor Day
+126,10-13-2008,Columbus Day
+127,11-11-2008,Veterans Day
+128,11-27-2008,Thanksgiving Day
+129,12-25-2008,Christmas Day
+130,01-01-2007,New Year’s Day
+131,01-15-2007,"Martin Luther King, Jr. Day"
+132,02-19-2007,Washington’s Birthday
+133,05-28-2007,Memorial Day
+134,07-04-2007,Independence Day
+135,09-03-2007,Labor Day
+136,10-08-2007,Columbus Day
+137,11-11-2007,Veterans Day
+138,11-22-2007,Thanksgiving Day
+139,12-25-2007,Christmas Day
+140,01-01-2006,New Year’s Day
+141,01-16-2006,"Martin Luther King, Jr. Day"
+142,02-20-2006,Washington’s Birthday
+143,05-29-2006,Memorial Day
+144,07-04-2006,Independence Day
+145,09-04-2006,Labor Day
+146,10-09-2006,Columbus Day
+147,11-11-2006,Veterans Day
+148,11-23-2006,Thanksgiving Day
+149,12-25-2006,Christmas Day
+150,01-01-2005,New Year’s Day
+151,01-17-2005,"Martin Luther King, Jr. Day"
+152,02-21-2005,Washington’s Birthday
+153,05-30-2005,Memorial Day
+154,07-04-2005,Independence Day
+155,09-05-2005,Labor Day
+156,10-10-2005,Columbus Day
+157,11-11-2005,Veterans Day
+158,11-24-2005,Thanksgiving Day
+159,12-25-2005,Christmas Day
+160,01-01-2004,New Year’s Day
+161,01-19-2004,"Martin Luther King, Jr. Day"
+162,02-16-2004,Washington’s Birthday
+163,05-31-2004,Memorial Day
+164,07-04-2004,Independence Day
+165,09-06-2004,Labor Day
+166,10-11-2004,Columbus Day
+167,11-11-2004,Veterans Day
+168,11-25-2004,Thanksgiving Day
+169,12-25-2004,Christmas Day
+170,01-01-2003,New Year’s Day
+171,01-20-2003,"Martin Luther King, Jr. Day"
+172,02-17-2003,Washington’s Birthday
+173,05-26-2003,Memorial Day
+174,07-04-2003,Independence Day
+175,09-01-2003,Labor Day
+176,10-13-2003,Columbus Day
+177,11-11-2003,Veterans Day
+178,11-27-2003,Thanksgiving Day
+179,12-25-2003,Christmas Day
+180,01-01-2002,New Year’s Day
+181,01-21-2002,"Martin Luther King, Jr. Day"
+182,02-18-2002,Washington’s Birthday
+183,05-27-2002,Memorial Day
+184,07-04-2002,Independence Day
+185,09-02-2002,Labor Day
+186,10-14-2002,Columbus Day
+187,11-11-2002,Veterans Day
+188,11-28-2002,Thanksgiving Day
+189,12-25-2002,Christmas Day
+190,01-01-2001,New Year’s Day
+191,01-15-2001,"Martin Luther King, Jr. Day"
+192,02-19-2001,Washington’s Birthday
+193,05-28-2001,Memorial Day
+194,07-04-2001,Independence Day
+195,09-03-2001,Labor Day
+196,10-08-2001,Columbus Day
+197,11-11-2001,Veterans Day
+198,11-22-2001,Thanksgiving Day
+199,12-25-2001,Christmas Day
+200,01-01-2000,New Year’s Day
+201,01-17-2000,"Martin Luther King, Jr. Day"
+202,02-21-2000,Washington’s Birthday
+203,05-29-2000,Memorial Day
+204,07-04-2000,Independence Day
+205,09-04-2000,Labor Day
+206,10-09-2000,Columbus Day
+207,11-11-2000,Veterans Day
+208,11-23-2000,Thanksgiving Day
+209,12-25-2000,Christmas Day
+210,01-01-1999,New Year’s Day
+211,01-18-1999,"Martin Luther King, Jr. Day"
+212,02-15-1999,Washington’s Birthday
+213,05-31-1999,Memorial Day
+214,07-04-1999,Independence Day
+215,09-06-1999,Labor Day
+216,10-11-1999,Columbus Day
+217,11-11-1999,Veterans Day
+218,11-25-1999,Thanksgiving Day
+219,12-25-1999,Christmas Day
+220,01-01-1998,New Year’s Day
+221,01-19-1998,"Martin Luther King, Jr. Day"
+222,02-16-1998,Washington’s Birthday
+223,05-25-1998,Memorial Day
+224,07-04-1998,Independence Day
+225,09-07-1998,Labor Day
+226,10-12-1998,Columbus Day
+227,11-11-1998,Veterans Day
+228,11-26-1998,Thanksgiving Day
+229,12-25-1998,Christmas Day
+230,01-01-1997,New Year’s Day
+231,01-20-1997,"Martin Luther King, Jr. Day"
+232,02-17-1997,Washington’s Birthday
+233,05-26-1997,Memorial Day
+234,07-04-1997,Independence Day
+235,09-01-1997,Labor Day
+236,10-13-1997,Columbus Day
+237,11-11-1997,Veterans Day
+238,11-27-1997,Thanksgiving Day
+239,12-25-1997,Christmas Day
+240,01-01-1996,New Year’s Day
+241,01-15-1996,"Martin Luther King, Jr. Day"
+242,02-19-1996,Washington’s Birthday
+243,05-27-1996,Memorial Day
+244,07-04-1996,Independence Day
+245,09-02-1996,Labor Day
+246,10-14-1996,Columbus Day
+247,11-11-1996,Veterans Day
+248,11-28-1996,Thanksgiving Day
+249,12-25-1996,Christmas Day
+250,01-01-1995,New Year’s Day
+251,01-16-1995,"Martin Luther King, Jr. Day"
+252,02-20-1995,Washington’s Birthday
+253,05-29-1995,Memorial Day
+254,07-04-1995,Independence Day
+255,09-04-1995,Labor Day
+256,10-09-1995,Columbus Day
+257,11-11-1995,Veterans Day
+258,11-23-1995,Thanksgiving Day
+259,12-25-1995,Christmas Day
+260,01-01-1994,New Year’s Day
+261,01-17-1994,"Martin Luther King, Jr. Day"
+262,02-21-1994,Washington’s Birthday
+263,05-30-1994,Memorial Day
+264,07-04-1994,Independence Day
+265,09-05-1994,Labor Day
+266,10-10-1994,Columbus Day
+267,11-11-1994,Veterans Day
+268,11-24-1994,Thanksgiving Day
+269,12-25-1994,Christmas Day
+270,01-01-1993,New Year’s Day
+271,01-18-1993,"Martin Luther King, Jr. Day"
+272,02-15-1993,Washington’s Birthday
+273,05-31-1993,Memorial Day
+274,07-04-1993,Independence Day
+275,09-06-1993,Labor Day
+276,10-11-1993,Columbus Day
+277,11-11-1993,Veterans Day
+278,11-25-1993,Thanksgiving Day
+279,12-25-1993,Christmas Day
+280,01-01-1992,New Year’s Day
+281,01-20-1992,"Martin Luther King, Jr. Day"
+282,02-17-1992,Washington’s Birthday
+283,05-25-1992,Memorial Day
+284,07-04-1992,Independence Day
+285,09-07-1992,Labor Day
+286,10-12-1992,Columbus Day
+287,11-11-1992,Veterans Day
+288,11-26-1992,Thanksgiving Day
+289,12-25-1992,Christmas Day
+290,01-01-1991,New Year’s Day
+291,01-21-1991,"Martin Luther King, Jr. Day"
+292,02-18-1991,Washington’s Birthday
+293,05-27-1991,Memorial Day
+294,07-04-1991,Independence Day
+295,09-02-1991,Labor Day
+296,10-14-1991,Columbus Day
+297,11-11-1991,Veterans Day
+298,11-28-1991,Thanksgiving Day
+299,12-25-1991,Christmas Day
+300,01-01-1990,New Year’s Day
+301,01-15-1990,"Martin Luther King, Jr. Day"
+302,02-19-1990,Washington’s Birthday
+303,05-28-1990,Memorial Day
+304,07-04-1990,Independence Day
+305,09-03-1990,Labor Day
+306,10-08-1990,Columbus Day
+307,11-11-1990,Veterans Day
+308,11-22-1990,Thanksgiving Day
+309,12-25-1990,Christmas Day
+310,01-01-1989,New Year’s Day
+311,01-16-1989,"Martin Luther King, Jr. Day"
+312,02-20-1989,Washington’s Birthday
+313,05-29-1989,Memorial Day
+314,07-04-1989,Independence Day
+315,09-04-1989,Labor Day
+316,10-09-1989,Columbus Day
+317,11-11-1989,Veterans Day
+318,11-23-1989,Thanksgiving Day
+319,12-25-1989,Christmas Day
+320,01-01-1988,New Year’s Day
+321,01-18-1988,"Martin Luther King, Jr. Day"
+322,02-15-1988,Washington’s Birthday
+323,05-30-1988,Memorial Day
+324,07-04-1988,Independence Day
+325,09-05-1988,Labor Day
+326,10-10-1988,Columbus Day
+327,11-11-1989,Veterans Day
+328,11-24-1988,Thanksgiving Day
+329,12-25-1988,Christmas Day
+330,01-01-1987,New Year’s Day
+331,01-19-1987,"Martin Luther King, Jr. Day"
+332,02-16-1987,Washington’s Birthday
+333,05-25-1987,Memorial Day
+334,07-04-1987,Independence Day
+335,09-07-1987,Labor Day
+336,10-12-1987,Columbus Day
+337,11-11-1987,Veterans Day
+338,11-26-1987,Thanksgiving Day
+339,12-25-1987,Christmas Day
+340,01-01-1986,New Year’s Day
+341,01-20-1986,"Martin Luther King, Jr. Day"
+342,02-17-1986,Washington’s Birthday
+343,05-26-1986,Memorial Day
+344,07-04-1986,Independence Day
+345,09-01-1986,Labor Day
+346,10-13-1986,Columbus Day
+347,11-11-1986,Veterans Day
+348,11-27-1986,Thanksgiving Day
+349,12-25-1986,Christmas Day
+350,01-01-1985,New Year’s Day
+351,01-21-1985,"Martin Luther King, Jr. Day"
+352,02-18-1985,Washington’s Birthday
+353,05-27-1985,Memorial Day
+354,07-04-1985,Independence Day
+355,09-02-1985,Labor Day
+356,10-14-1985,Columbus Day
+357,11-11-1985,Veterans Day
+358,11-28-1985,Thanksgiving Day
+359,12-25-1985,Christmas Day
+360,01-01-1984,New Year’s Day
+361,02-20-1984,Washington’s Birthday
+362,05-28-1984,Memorial Day
+363,07-04-1984,Independence Day
+364,09-03-1984,Labor Day
+365,10-08-1984,Columbus Day
+366,11-11-1984,Veterans Day
+367,11-22-1984,Thanksgiving Day
+368,12-25-1984,Christmas Day
+369,01-01-1983,New Year’s Day
+370,02-21-1983,Washington’s Birthday
+371,05-30-1983,Memorial Day
+372,07-04-1983,Independence Day
+373,09-05-1983,Labor Day
+374,10-10-1983,Columbus Day
+375,11-11-1983,Veterans Day
+376,11-24-1983,Thanksgiving Day
+377,12-25-1983,Christmas Day
+378,01-01-1982,New Year’s Day
+379,02-15-1982,Washington’s Birthday
+380,05-31-1982,Memorial Day
+381,07-04-1982,Independence Day
+382,09-06-1982,Labor Day
+383,10-11-1982,Columbus Day
+384,11-11-1982,Veterans Day
+385,11-25-1982,Thanksgiving Day
+386,12-25-1982,Christmas Day
+387,01-01-1981,New Year’s Day
+388,02-16-1981,Washington’s Birthday
+389,05-25-1981,Memorial Day
+390,07-04-1981,Independence Day
+391,09-07-1981,Labor Day
+392,10-12-1981,Columbus Day
+393,11-11-1981,Veterans Day
+394,11-26-1981,Thanksgiving Day
+395,12-25-1981,Christmas Day
+396,01-01-1980,New Year’s Day
+397,02-18-1980,Washington’s Birthday
+398,05-26-1980,Memorial Day
+399,07-04-1980,Independence Day
+400,09-01-1980,Labor Day
+401,10-13-1980,Columbus Day
+402,11-11-1980,Veterans Day
+403,11-27-1980,Thanksgiving Day
+404,12-25-1980,Christmas Day
+405,01-01-1979,New Year’s Day
+406,02-19-1979,Washington’s Birthday
+407,05-28-1979,Memorial Day
+408,07-04-1979,Independence Day
+409,09-03-1979,Labor Day
+410,10-08-1979,Columbus Day
+411,11-11-1979,Veterans Day
+412,11-22-1979,Thanksgiving Day
+413,12-25-1979,Christmas Day
+414,01-01-1978,New Year’s Day
+415,02-20-1978,Washington’s Birthday
+416,05-29-1978,Memorial Day
+417,07-04-1978,Independence Day
+418,09-04-1978,Labor Day
+419,10-09-1978,Columbus Day
+420,11-11-1978,Veterans Day
+421,11-23-1978,Thanksgiving Day
+422,12-25-1978,Christmas Day
+423,01-01-1977,New Year’s Day
+424,02-21-1977,Washington’s Birthday
+425,05-30-1977,Memorial Day
+426,07-04-1977,Independence Day
+427,09-05-1977,Labor Day
+428,10-10-1977,Columbus Day
+429,11-11-1977,Veterans Day
+430,11-24-1977,Thanksgiving Day
+431,12-25-1977,Christmas Day
+432,01-01-1976,New Year’s Day
+433,02-16-1976,Washington’s Birthday
+434,05-31-1976,Memorial Day
+435,07-04-1976,Independence Day
+436,09-06-1976,Labor Day
+437,10-11-1976,Columbus Day
+438,11-11-1976,Veterans Day
+439,11-25-1976,Thanksgiving Day
+440,12-25-1976,Christmas Day
+441,01-01-1975,New Year’s Day
+442,02-17-1975,Washington’s Birthday
+443,05-26-1975,Memorial Day
+444,07-04-1975,Independence Day
+445,09-01-1975,Labor Day
+446,10-13-1975,Columbus Day
+447,11-11-1975,Veterans Day
+448,11-27-1975,Thanksgiving Day
+449,12-25-1975,Christmas Day
+450,01-01-1974,New Year’s Day
+451,02-18-1974,Washington’s Birthday
+452,05-27-1974,Memorial Day
+453,07-04-1974,Independence Day
+454,09-02-1974,Labor Day
+455,10-14-1974,Columbus Day
+456,11-11-1974,Veterans Day
+457,11-28-1974,Thanksgiving Day
+458,12-25-1974,Christmas Day
+459,01-01-1973,New Year’s Day
+460,02-19-1973,Washington’s Birthday
+461,05-28-1973,Memorial Day
+462,07-04-1973,Independence Day
+463,09-03-1973,Labor Day
+464,10-08-1973,Columbus Day
+465,11-11-1973,Veterans Day
+466,11-22-1973,Thanksgiving Day
+467,12-25-1973,Christmas Day
+468,01-01-1972,New Year’s Day
+469,02-21-1972,Washington’s Birthday
+470,05-29-1972,Memorial Day
+471,07-04-1972,Independence Day
+472,09-04-1972,Labor Day
+473,10-09-1972,Columbus Day
+474,11-11-1972,Veterans Day
+475,11-23-1972,Thanksgiving Day
+476,12-25-1972,Christmas Day
+477,01-01-1966,New Year’s Day
+478,02-22-1966,Washington’s Birthday
+479,07-04-1966,Independence Day
+480,09-05-1966,Labor Day
+481,10-12-1966,Columbus Day
+482,11-11-1966,Veterans Day
+483,11-24-1966,Thanksgiving Day
+484,12-25-1966,Christmas Day
